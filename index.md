@@ -1,7 +1,8 @@
-#👋Hey! My name is Charan Battula
+# 👋Hey! My name is Charan Battula
 ![alt text](image.png)
 
 # Table of Contents
+- [👋Hey! My name is Charan Battula](#hey-my-name-is-charan-battula)
 - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Professional Experience](#professional-experience)
